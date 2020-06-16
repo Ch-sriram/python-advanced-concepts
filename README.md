@@ -6,3 +6,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
 
 1. Miscellaneous Concepts:
    1. `*args` & `**kwargs`: [args_kwargs.py](./misc/args_kwargs.py)
+   2. Closures in Python using `nonlocal` keyword: [closure_nonlocal.py](./misc/closure_nonlocal.py)
