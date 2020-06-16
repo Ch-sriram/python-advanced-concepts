@@ -10,3 +10,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
 
 2. Object Oriented Programming:
    1. Defining `class`es: [class.py](./oop/class.py)
+   2. Defining `class`, `__init__` & objects: [objects.py](./oop/objects.py)
