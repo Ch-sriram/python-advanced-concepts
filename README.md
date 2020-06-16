@@ -12,3 +12,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    1. Defining `class`es: [class.py](./oop/class.py)
    2. Defining `class`, `__init__` & objects: [objects.py](./oop/objects.py)
    3. Difference between Class Object Attributes & Instance Attributes: [attr_method.py](./oop/attr_method.py)
+   4. `@classmethod` and `@staticmethod` in a class: [decorator_class.py](./oop/decorator_class.py)
