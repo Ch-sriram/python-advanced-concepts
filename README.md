@@ -14,3 +14,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    3. Difference between Class Object Attributes & Instance Attributes: [attr_method.py](./oop/attr_method.py)
    4. `@classmethod` and `@staticmethod` in a class: [decorator_class.py](./oop/decorator_class.py)
    5. Inheritance of classes: [inheritance.py](./oop/inheritance.py)
+   6. Polymorphism: [polymorphism.py](./oop/polymorphism.py)
