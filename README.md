@@ -15,3 +15,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    4. `@classmethod` and `@staticmethod` in a class: [decorator_class.py](./oop/decorator_class.py)
    5. Inheritance of classes: [inheritance.py](./oop/inheritance.py)
    6. Polymorphism: [polymorphism.py](./oop/polymorphism.py)
+   7. Calling super class' constructor using `super()`: [super.py](./oop/super.py)
