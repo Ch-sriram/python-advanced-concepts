@@ -29,3 +29,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    7. Exercise on `lambda` expressions: [exercise_2.py](./functional-programming/lambda.py)
    8. `list` comprehensions: [list_comprehensions.py](./functional-programming/list_comprehensions.py)
    9. `set` and `dict` comprehensions: [set_dict_comprehensions.py](./functional-programming/set__dict_comprehensions.py)
+   10. Exercise on comprehensions: [exercise_3.py](./functional-programming/exercise_3.py)
