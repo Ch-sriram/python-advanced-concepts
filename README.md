@@ -16,3 +16,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    5. Inheritance of classes: [inheritance.py](./oop/inheritance.py)
    6. Polymorphism: [polymorphism.py](./oop/polymorphism.py)
    7. Calling super class' constructor using `super()` and Object Introspection using `dir()`: [super.py](./oop/super.py)
+   8. Operator Overloading & Function Overriding using Dunder/Magic Methods: [dunder.py](./oop/dunder.py)
