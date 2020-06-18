@@ -18,3 +18,6 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    7. Calling super class' constructor using `super()` and Object Introspection using `dir()`: [super.py](./oop/super.py)
    8. Operator Overloading & Function Overriding using Dunder/Magic Methods: [dunder.py](./oop/dunder.py)
    9. Making your own list objects using inheritance: [super_list.py](./oop/super_list.py)
+
+3. **Functional Programming**:
+   1. Pure functions and `map()` function: [map.py](./functional-programming/map.py)
