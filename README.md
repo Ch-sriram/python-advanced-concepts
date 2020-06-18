@@ -24,3 +24,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    2. The `filter()` function: [filter.py](./functional-programming/filter.py)
    3. The `zip()` function: [zip.py](./functional-programming/zip.py)
    4. Using the `reduce()` function from `functools`: [reduce.py](functional-programming/reduce.py)
+   5. Exercise on `map()`, `filter()` & `reduce()`: [exercise_1.py](./functional-programming/exercise_1.py)
