@@ -56,3 +56,29 @@ class Wizard(User):
 
 w1 = Wizard('Merlin', 60, 'merlin123@gmail.com')
 print(w1.email)  # merlin123@gmail.com
+
+
+'''
+To know what the Wizard instance has access to, we can
+introspect an object using the dir() function as follows:
+'''
+
+print(dir(w1))
+
+
+'''
+Output:
+------
+
+merlin123@gmail.com
+['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', 
+'__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'attack', 'email', 'name', 'power', 'sign_in']
+
+'''
+
+
+'''
+We can see that we have access to attack(), email, name, power
+and the sign_in() methods/attributes from both the Wizard and
+User class.
+'''
