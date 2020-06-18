@@ -27,3 +27,4 @@ This repository is a proof of concept that I know how to read/write code in Pyth
    5. Exercise on `map()`, `filter()` & `reduce()`: [exercise_1.py](./functional-programming/exercise_1.py)
    6. Anonymous function definitions using `lambda` expressions: [lambda.py](./functional-programming/lambda.py)
    7. Exercise on `lambda` expressions: [exercise_2.py](./functional-programming/lambda.py)
+   8. List Comprehensions: [list_comprehensions.py](./functional-programming/list_comprehensions.py)
